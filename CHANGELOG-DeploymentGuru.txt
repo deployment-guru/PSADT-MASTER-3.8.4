@@ -1,0 +1,6 @@
+**Version 3.8.4 [01/10/2022]**
+- Added Set-SCCMAppDetectRegistryKey
+  - This Function Record a Value in the registry that can be used for Application Detection in SCCM
+
+- Added Remove-SCCMAppDetectRegistryKey
+  - This Function Remove a Value in the registry that can be used for Application Detection in SCCM
